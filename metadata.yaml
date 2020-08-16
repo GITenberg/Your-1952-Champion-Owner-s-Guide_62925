@@ -1,0 +1,23 @@
+_repo: Your-1952-Champion-Owner-s-Guide_62925
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Studebaker Corporation
+    gutenberg_agent_id: '52179'
+    url: http://www.gutenberg.org/2009/agents/52179
+    wikipedia: https://en.wikipedia.org/wiki/Studebaker
+description: ''
+gutenberg_issued: '2020-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62925'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TL'
+- !lcsh 'Studebaker automobile -- Handbooks, manuals, etc.'
+- GITenberg
+title: Your 1952 Champion Owner's Guide
+url: http://www.gutenberg.org/ebooks/62925
