@@ -1,5 +1,8 @@
 _repo: Your-1952-Champion-Owner-s-Guide_62925
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62925-h/images/cover.jpg
 creator:
   author:
     agent_name: Studebaker Corporation
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52179
     wikipedia: https://en.wikipedia.org/wiki/Studebaker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62925#Your-1952-Champion-Owner-s-Guide
 gutenberg_issued: '2020-08-14'
 gutenberg_type: Text
 identifiers:
